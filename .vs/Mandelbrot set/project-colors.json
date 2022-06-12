@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1c8dacae-eeb0-4352-bccd-e8b937a51d8d": {
+      "ProjectGuid": "1c8dacae-eeb0-4352-bccd-e8b937a51d8d",
+      "DisplayName": "Mandelbrot set",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
