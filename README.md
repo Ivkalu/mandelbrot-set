@@ -18,7 +18,7 @@ g++ -o zoomer Zoomer.cpp -I/usr/include/SDL2 -lSDL2
 
 If you don't have SDL2 installed, [install it here](https://wiki.libsdl.org/SDL2/Installation).
 
-## 🔗 References
+### 🔗 References
 
 Read more about [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
 
