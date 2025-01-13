@@ -26,3 +26,7 @@ Read more about [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
 
 Read more about [Julia set](https://en.wikipedia.org/wiki/Julia_set)
 
+### 📋 Note
+
+Sorry for the bad code. Code is legacy (from the dinosaur age, older than the first commit).
+I didn't change it because I am nostalgia seeker :-)
